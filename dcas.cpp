@@ -1,5 +1,5 @@
 /*
-CODE WRITTEN BY IMAN HAKIM-ABDUL-RASHED
+CODE WRITTEN BY IMAN SWAIN
 Email: ihabdulr@buffalo.edu
 
 Hope you enjoy ;) its pretty cool.
